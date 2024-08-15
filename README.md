@@ -22,5 +22,7 @@
 <p align="left"> 
   <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/240/1015/png-transparent-g-suite-google-docs-google-angle-rectangle-logo.png" width="36" height="36" alt="Google Sheets" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/713b79ea-efec-4f10-8004-b2006594ceb9" width="36" height="36" alt="Notion" /></a>
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/61293e5c-b3ba-4c32-8777-d74dbb8b26a0" width="36" height="36" alt="Notion" /></a>
+  <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="36" height="36" alt="Youtrack" /></a>
 </p> 
+
